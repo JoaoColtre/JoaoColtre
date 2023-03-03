@@ -1,4 +1,7 @@
-### Olá!! Eu sou o João Marco ✌️
+## Oi!! Eu sou o João Marco ✌️
+Viciado em tecnologia graças aos videogames.
+
+Estudante de Análise e desenvolvimento de sistemas na Fatec-SP
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-marco-coltre-377984236/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_crusader/)
@@ -8,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoColtre&layout=compact)
 
 
-## Linguagens que possuo afinidade
+### Linguagens que possuo afinidade
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -17,6 +20,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## Quer jogar comigo?
+### Quer jogar comigo?
 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Joao_Crusader/)
