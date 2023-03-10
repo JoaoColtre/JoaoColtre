@@ -1,4 +1,4 @@
-## Oi!! Eu sou o João Marco <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Oi!! Eu sou o João Marco <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 
 
@@ -20,7 +20,7 @@
 ## &#x1f4c8; GitHub Status
 
 <div align="center">
-  <a href="https://github.com/JoaoColtre/JoaoColtre>
+  <a href="https://github.com/JoaoColtre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoColtre&show_icons=true&theme=merko"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoColtre&layout=compact&theme=merko"/>
 </div>
