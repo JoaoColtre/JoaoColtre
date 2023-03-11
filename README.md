@@ -22,7 +22,7 @@
 <div align="center">
   <a href="https://github.com/JoaoColtre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoColtre&show_icons=true&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoColtre&layout=compact&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoColtre&layout=compact&theme=merko"/>
 </div>
 
 ## 🔧 Tecnologias & Ferramentas
