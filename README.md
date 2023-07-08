@@ -6,7 +6,7 @@
 
 🎓Formado como Técnico em Administração pela Etec Mandaqui <br>
 
-📖 Estudante de Análise e desenvolvimento de sistemas na Fatec São Paulo (3/6) <br>
+📖 Estudante de Análise e desenvolvimento de sistemas na Fatec São Paulo (4/6) <br>
 
 ## Contatos
 
